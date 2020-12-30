@@ -7,8 +7,8 @@ public class EndOfLevel : MonoBehaviour
 {
     public void EndOfGame()
     {
-        //Debug.Log("HIT");
+        Debug.Log("HIT");
         //Application.Quit();
-        SceneManager.LoadScene("fps");
+        SceneManager.LoadScene("Teste");
     }
 }

@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: f687cd4c79650f64c999c17bf55a9aca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BaseFogueira1
+    100002: BaseFogueira2
+    100004: Camera
+    100006: Chama
+    100008: Chao
+    100010: ChaoFogueira
+    100012: EntornoFogueira
+    100014: Estrela
+    100016: Faixas
+    100018: InteriorOvo
+    100020: Janela
+    100022: Janela2
+    100024: Katana1
+    100026: Katana2
+    100028: LANTERNA 01
+    100030: LANTERNA 01.001
+    100032: LANTERNA 01.002
+    100034: Macaneta
+    100036: Madeira
+    100038: Mesa
+    100040: Mesa2
+    100042: Ovo
+    100044: Parede
+    100046: ParedePrateleira
+    100048: Pedras
+    100050: PeMesa1
+    100052: PeMesa2
+    100054: Porta
+    100056: Prateleira
+    100058: Rodape
+    100060: Sinagoga
+    100062: Suporte
+    100064: Suporte.001
+    100066: //RootNode
+    100068: Travesseiro2
+    100070: Travesseiro2.001
+    100072: Travesseiro2.002
+    100074: Travesseiro2.003
+    100076: Travesseiro2.004
+    400000: BaseFogueira1
+    400002: BaseFogueira2
+    400004: Camera
+    400006: Chama
+    400008: Chao
+    400010: ChaoFogueira
+    400012: EntornoFogueira
+    400014: Estrela
+    400016: Faixas
+    400018: InteriorOvo
+    400020: Janela
+    400022: Janela2
+    400024: Katana1
+    400026: Katana2
+    400028: LANTERNA 01
+    400030: LANTERNA 01.001
+    400032: LANTERNA 01.002
+    400034: Macaneta
+    400036: Madeira
+    400038: Mesa
+    400040: Mesa2
+    400042: Ovo
+    400044: Parede
+    400046: ParedePrateleira
+    400048: Pedras
+    400050: PeMesa1
+    400052: PeMesa2
+    400054: Porta
+    400056: Prateleira
+    400058: Rodape
+    400060: Sinagoga
+    400062: Suporte
+    400064: Suporte.001
+    400066: //RootNode
+    400068: Travesseiro2
+    400070: Travesseiro2.001
+    400072: Travesseiro2.002
+    400074: Travesseiro2.003
+    400076: Travesseiro2.004
+    2000000: Camera
+    2100000: Cabo
+    2100002: Punhal
+    2100004: Base2
+    2100006: Base1
+    2100008: Lamina
+    2100010: Material.001
+    2100012: Janela
+    2100014: Parede
+    2100016: Pedra.001
+    2100018: Madeira.002
+    2100020: Centro
+    2100022: Chama
+    2100024: Ovo.001
+    2100026: Madeira
+    2100028: Terra
+    2100030: "P\xE9.001"
+    2100032: Vaso
+    2100034: Rodinha.001
+    2100036: Tronco
+    2100038: Tenda.001
+    2100040: Ponta
+    2100042: Suporte
+    2100044: Lamina.001
+    2100046: PeLamina
+    2100048: Cabo.001
+    2100050: Punhal.001
+    2100052: DetalhesPunhal
+    2100054: Faixa
+    2100056: Mesa.001
+    2100058: Mesa
+    2100060: "P\xE9Mesa"
+    2100062: "P\xE9Mesa.001"
+    2100064: Material
+    2100066: Chao
+    2100068: Faixas
+    2100070: Pedra
+    2100072: Prateleira
+    2100074: Luz
+    2100076: Parede.001
+    2100078: ParedeBaixa.001
+    2100080: Lanterna
+    2100082: Tecido
+    2100084: Cubo
+    2100086: Macaneta
+    2100088: Porta
+    2100090: Madeira.001
+    2100092: Rodape
+    2300000: BaseFogueira1
+    2300002: BaseFogueira2
+    2300004: Chama
+    2300006: Chao
+    2300008: ChaoFogueira
+    2300010: EntornoFogueira
+    2300012: Estrela
+    2300014: Faixas
+    2300016: InteriorOvo
+    2300018: Janela
+    2300020: Janela2
+    2300022: Katana1
+    2300024: Katana2
+    2300026: LANTERNA 01
+    2300028: LANTERNA 01.001
+    2300030: LANTERNA 01.002
+    2300032: Macaneta
+    2300034: Madeira
+    2300036: Mesa
+    2300038: Mesa2
+    2300040: Ovo
+    2300042: Parede
+    2300044: ParedePrateleira
+    2300046: Pedras
+    2300048: PeMesa1
+    2300050: PeMesa2
+    2300052: Porta
+    2300054: Prateleira
+    2300056: Rodape
+    2300058: Sinagoga
+    2300060: Suporte
+    2300062: Suporte.001
+    2300064: Travesseiro2
+    2300066: Travesseiro2.001
+    2300068: Travesseiro2.002
+    2300070: Travesseiro2.003
+    2300072: Travesseiro2.004
+    3300000: BaseFogueira1
+    3300002: BaseFogueira2
+    3300004: Chama
+    3300006: Chao
+    3300008: ChaoFogueira
+    3300010: EntornoFogueira
+    3300012: Estrela
+    3300014: Faixas
+    3300016: InteriorOvo
+    3300018: Janela
+    3300020: Janela2
+    3300022: Katana1
+    3300024: Katana2
+    3300026: LANTERNA 01
+    3300028: LANTERNA 01.001
+    3300030: LANTERNA 01.002
+    3300032: Macaneta
+    3300034: Madeira
+    3300036: Mesa
+    3300038: Mesa2
+    3300040: Ovo
+    3300042: Parede
+    3300044: ParedePrateleira
+    3300046: Pedras
+    3300048: PeMesa1
+    3300050: PeMesa2
+    3300052: Porta
+    3300054: Prateleira
+    3300056: Rodape
+    3300058: Sinagoga
+    3300060: Suporte
+    3300062: Suporte.001
+    3300064: Travesseiro2
+    3300066: Travesseiro2.001
+    3300068: Travesseiro2.002
+    3300070: Travesseiro2.003
+    3300072: Travesseiro2.004
+    4300000: Katana1
+    4300002: Estrela
+    4300004: Janela2
+    4300006: Janela
+    4300008: Parede
+    4300010: Pedras
+    4300012: BaseFogueira1
+    4300014: InteriorOvo
+    4300016: Chama
+    4300018: Ovo
+    4300020: BaseFogueira2
+    4300022: ChaoFogueira
+    4300024: Sinagoga
+    4300026: Suporte.001
+    4300028: Katana2
+    4300030: Suporte
+    4300032: Mesa2
+    4300034: Mesa
+    4300036: PeMesa2
+    4300038: PeMesa1
+    4300040: Travesseiro2.004
+    4300042: Travesseiro2.003
+    4300044: Travesseiro2.002
+    4300046: Travesseiro2.001
+    4300048: Travesseiro2
+    4300050: Chao
+    4300052: Faixas
+    4300054: EntornoFogueira
+    4300056: Prateleira
+    4300058: ParedePrateleira
+    4300060: LANTERNA 01.002
+    4300062: LANTERNA 01.001
+    4300064: Macaneta
+    4300066: Porta
+    4300068: Madeira
+    4300070: Rodape
+    4300072: LANTERNA 01
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base1
+    second: {fileID: 2100000, guid: 498b13a986fd0f44eb60e7f787bc7837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base2
+    second: {fileID: 2100000, guid: d146989236ed7eb40a15432224f30613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabo
+    second: {fileID: 2100000, guid: 43e3d08e8aa6a2f429695d836ad52107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabo.001
+    second: {fileID: 2100000, guid: f105ad53277162145b4245a6b5817d8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Centro
+    second: {fileID: 2100000, guid: c2a84b57e993d544c84fa765a7b62a2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chama
+    second: {fileID: 2100000, guid: 7b0520bfcb4a5f94fab3b2b46cc407ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao
+    second: {fileID: 2100000, guid: 0de19eedc20c7d64697cd3855e0bde2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubo
+    second: {fileID: 2100000, guid: a47614588be2b3b42865f519415d1c4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DetalhesPunhal
+    second: {fileID: 2100000, guid: 4b28af2a26086464da6adb201d92c9be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Faixa
+    second: {fileID: 2100000, guid: 5598e36150cb04342ade8226b6a0b6f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Faixas
+    second: {fileID: 2100000, guid: d33d5bdd9e331224b90d90283f7c2a77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janela
+    second: {fileID: 2100000, guid: beb8abca58ae23e40ad1f9c62bee9ad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamina
+    second: {fileID: 2100000, guid: 61ca8700ed6ee154d99b7209b4a7ec15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamina.001
+    second: {fileID: 2100000, guid: 222e37e61954dbe4788f152df123ef86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lanterna
+    second: {fileID: 2100000, guid: 56a8d2ff7621a1b469e36d726400aee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luz
+    second: {fileID: 2100000, guid: 077243a3d85601f45810cc4ad504e81b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Macaneta
+    second: {fileID: 2100000, guid: b9b18c1e1a7e85549b3641626c9fcf8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira
+    second: {fileID: 2100000, guid: 7d6e9fab60c6d544698c13b6884c7f4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.001
+    second: {fileID: 2100000, guid: 6534a349a8cd3f34fabf5983ff3408a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.002
+    second: {fileID: 2100000, guid: ab09ad91676d7a64d93213ed1889820a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 64dcd24caef537d4fb3db9d1c341b400, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 09f1d9c0aa35352409c8f40c4272fd19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa
+    second: {fileID: 2100000, guid: 200cac3212f87cc4d87378d6fd8d2f63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa.001
+    second: {fileID: 2100000, guid: 3bc5de81c27787c42970102cac4dc279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ovo.001
+    second: {fileID: 2100000, guid: 070adcbc80c19e741a5fa2eb07318a29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede
+    second: {fileID: 2100000, guid: ea337c23485968b4f9be6bec2f085e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede.001
+    second: {fileID: 2100000, guid: 56b5863bc2bc1b04781d6de5ebcdcd09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ParedeBaixa.001
+    second: {fileID: 2100000, guid: c206923dd7c92484e87c97696bb8be29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PeLamina
+    second: {fileID: 2100000, guid: 8873472ee9f2f37469e91e3ab247b229, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pedra
+    second: {fileID: 2100000, guid: 21978daf46446534db62bb4577dbfcdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pedra.001
+    second: {fileID: 2100000, guid: 923889953ab8a4140bc58eb0c0912433, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ponta
+    second: {fileID: 2100000, guid: c912d7fa4d903bc4fab46e7108e1a6d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta
+    second: {fileID: 2100000, guid: 357cea90130248b4ab6c427c9ecec343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prateleira
+    second: {fileID: 2100000, guid: 1659d4e70242f1546a5d27fd0bcac409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Punhal
+    second: {fileID: 2100000, guid: 49324b7b89fdc2740910171bfa407f43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Punhal.001
+    second: {fileID: 2100000, guid: e5c5e99422d7f7140ae8b0180bb51320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "P\xE9.001"
+    second: {fileID: 2100000, guid: 249f627e069d17e4b93cdb24e2ea3365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "P\xE9Mesa"
+    second: {fileID: 2100000, guid: b78e45aa79f00804096235dc7d63cc6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "P\xE9Mesa.001"
+    second: {fileID: 2100000, guid: a856eae27bf569344a5376a5e0e36859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rodape
+    second: {fileID: 2100000, guid: b9b9dd963847148438d306f4c166a274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rodinha.001
+    second: {fileID: 2100000, guid: 82cced39cd49216439a8ea0917e03faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suporte
+    second: {fileID: 2100000, guid: 8ef93ad9f58f40f4b9cb0a0cf71c368c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tecido
+    second: {fileID: 2100000, guid: 33a38617ee0275b4b9977729a2292b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tenda.001
+    second: {fileID: 2100000, guid: efbb93ec547be1a4a86fe0017d600ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra
+    second: {fileID: 2100000, guid: 28f69ab8a6a42a64bb61f729bb6f62e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tronco
+    second: {fileID: 2100000, guid: 5f0332bb8cab52b4e9bc6323eff2da38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vaso
+    second: {fileID: 2100000, guid: 496ed5855e1cc9a4eb83a6ccf653aedc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
